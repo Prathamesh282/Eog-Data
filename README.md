@@ -32,10 +32,10 @@ Contributing
 
 Contributions are welcome! Please fork the repository, create a branch, and submit a pull request.
 
-License
+## License
 
 This project is licensed under the Apache License 2.0
 
-Acknowledgments
+## Acknowledgments
 
 Special thanks to the creators of BioAmp EXG and all open-source contributors.
