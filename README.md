@@ -1,4 +1,4 @@
-# Eye Movement Analysis for Lazy Eye Detection  
+# Eye Movement Analysis for Lazy Eye Detection (amblyopia)
 
 This project focuses on analyzing eye movements to detect conditions like lazy eye (amblyopia). The system captures and processes signals to analyze saccades and blink patterns, providing tailored exercises for prevention and treatment.  
 
