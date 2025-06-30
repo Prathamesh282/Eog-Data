@@ -6,7 +6,10 @@ This project focuses on analyzing eye movements to detect conditions like lazy e
 - **Signal Capture:** Utilizes Arduino and ESP32 microcontroller for efficient data acquisition.  
 - **BioAmp EXG Pill:** Tracks eye movement patterns with precision.  
 - **Real-time Analysis:** Processes saccades and blink patterns to identify irregularities.  
-- **Assistive Exercises:** Generates personalized exercises to address detected issues.  
+- **Assistive Exercises:** Generates personalized exercises to address detected issues.
+
+## Analyzed signal aquasition
+  ![EOG signal Pattern for dominated eye](signal.png)
 
 ## Hardware Components  
 - **ESP32 Microcontroller**  
